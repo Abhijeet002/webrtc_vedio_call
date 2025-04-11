@@ -10,21 +10,31 @@ Follow these steps to install and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/webrtc-video-call-app.git
-cd webrtc-video-call-app
+git clone https://github.com/Abhijeet002/webrtc_vedio_call.git
+cd webrtc_vedio_call
 ```
+
 ## Install Dependencies
 
 ### Terminal 1:For Client
+```bash
 cd client
 npm install
+```
 
 ### For Server
+```bash
 cd server
 npm install
+```
 
 ### Terminal 1: Start the Client
+```bash
 npm start
+```
 
 ### Terminal 2: Start the Server
+
+```bash
 npm start
+```
